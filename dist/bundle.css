@@ -1,0 +1,2 @@
+@font-face{font-family:robotoBold;src:url(fonts/Roboto-Bold.ttf);font-display:swap}*,body{margin:0;-webkit-box-sizing:border-box;box-sizing:border-box}body{padding:0}
+.wrapper{-ms-flex-wrap:wrap;flex-wrap:wrap}.col,.wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.col{height:72px;width:calc(20% - 4px);min-width:156px;border:1px solid #000;border-radius:5px;margin:2px;-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:center;padding:5px}
